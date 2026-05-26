@@ -294,6 +294,9 @@ Each website is included only once. Some websites can fall into multiple categor
 - [This vs That](https://thisvsthat.io/) - Type in two things to compare them to each other.
 - [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - A comparison platform for secure messaging apps.
 - [RTINGS](https://www.rtings.com/) - Provides in-depth reviews and comparisons of audio and visual equipment, including TVs, monitors, headphones, and soundbars, with detailed testing and ratings.
+- [CompareJSON](https://comparejson.com/) - Structural JSON diff tool that compares data semantically (not line-by-line like git diff), with formatted tree view and color-coded highlighting for additions, deletions, and modifications.
+- [CompareXML](https://comparexml.com/) - Structural XML diff tool that compares element hierarchies semantically (not character-by-character like git diff), with formatted color-coded view for nested elements and attribute differences.
+- [CompareHTML](https://comparehtml.com/) - DOM-level HTML diff tool that compares documents structurally (not plain text like git diff), with formatted side-by-side view highlighting element, attribute, and text changes.
 
 ### File
 
